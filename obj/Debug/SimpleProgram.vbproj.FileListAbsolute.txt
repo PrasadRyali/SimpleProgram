@@ -1,0 +1,9 @@
+D:\MyWorkArea\SimpleProgram\SimpleProgram\bin\Debug\SimpleProgram.exe
+D:\MyWorkArea\SimpleProgram\SimpleProgram\bin\Debug\SimpleProgram.pdb
+D:\MyWorkArea\SimpleProgram\SimpleProgram\bin\Debug\SimpleProgram.xml
+D:\MyWorkArea\SimpleProgram\SimpleProgram\obj\Debug\SimpleProgram.vbprojResolveAssemblyReference.cache
+D:\MyWorkArea\SimpleProgram\SimpleProgram\obj\Debug\SimpleProgram.Resources.resources
+D:\MyWorkArea\SimpleProgram\SimpleProgram\obj\Debug\SimpleProgram.vbproj.GenerateResource.Cache
+D:\MyWorkArea\SimpleProgram\SimpleProgram\obj\Debug\SimpleProgram.exe
+D:\MyWorkArea\SimpleProgram\SimpleProgram\obj\Debug\SimpleProgram.xml
+D:\MyWorkArea\SimpleProgram\SimpleProgram\obj\Debug\SimpleProgram.pdb
